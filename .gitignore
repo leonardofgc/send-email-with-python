@@ -2,4 +2,4 @@
 venv/Lib
 .idea/
 .env
-./Services/__pycache__
+/Services/__pycache__
