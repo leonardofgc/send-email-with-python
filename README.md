@@ -20,5 +20,5 @@ python main.py
 ```
 
 <p>
-    <strong>O objetivo deste projeto é simplismente pôr em prática o conhecimento adquirido em Python e Git.</strong>
+    <strong>O objetivo deste projeto é simplesmente pôr em prática o conhecimento adquirido em Python e Git.</strong>
 </p>
